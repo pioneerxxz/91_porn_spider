@@ -1,3 +1,5 @@
+## 改进优化，添加了下载进度显示
+
 ## 代理 https://www.anydoor.space
 # 91_porn_spider使用注意事项：
 `本脚本仅支持python3`
